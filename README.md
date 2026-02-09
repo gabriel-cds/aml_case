@@ -16,7 +16,7 @@
 
 **Objetivo específico 4**: comparar os resultados do sistema de alertas determinísticos e do modelo de Machine Learning, analisando sobreposição, diferenças de perfil e complementaridade na priorização de transações
 
-[Clique aqui para conferir a análise completa]()
+[Clique aqui para conferir a análise completa](https://github.com/gabriel-cds/aml_case/blob/main/analise.ipynb)
 
 ## Contato
 <div> 
