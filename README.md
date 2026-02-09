@@ -2,8 +2,7 @@
 
 ## Contexto
 
-
-
+A lavagem de dinheiro constitui um dos principais riscos sistêmicos enfrentados pelo setor financeiro, com impactos diretos sobre a integridade do sistema econômico, a reputação das instituições e o cumprimento das exigências regulatórias. O crescimento dos meios de pagamento digitais, aliado ao alto volume e à velocidade das transações, amplia a complexidade da detecção de atividades ilícitas e exige mecanismos de prevenção cada vez mais robustos e baseados em dados. Nesse contexto, a Prevenção à Lavagem de Dinheiro (AML) desempenha um papel central ao permitir a identificação, o monitoramento e a priorização de operações suspeitas, assegurando não apenas a conformidade regulatória, mas também a eficiência operacional das equipes de investigação frente a recursos limitados e cenários de risco cada vez mais dinâmicos
 
 ## Objetivo e escopo
 **Objetivo geral**: realizar uma triagem AML baseada em dados para identificar padrões de risco e priorizar casos para investigação.
