@@ -74,13 +74,22 @@ Modelo desenvolvido com foco exclusivo em priorização de risco, e não em clas
 
 Limitações: A ausência de rótulos supervisionados faz com que o score represente apenas priorização de risco, e não probabilidade de ilícito. Além disso, por se tratar de detecção de anomalias, o modelo é sensível a mudanças de comportamento (drift), exigindo monitoramento e recalibragem contínuos.
 
-## 8. Conclusão e Próximos Passos
+## 8. Agente de AML
 
-O projeto apresenta um framework AML-FT ponta a ponta, integrando dados, regras determinísticas, Machine Learning e investigação humana de forma explicável e alinhada à realidade de fintechs de pagamentos. 
+Como complemento à metodologia aplicada, foi desenvolvido um agente de IA com foco em automação, padronização e apoio à decisão:
+
+- Agent 1: Ingestão e qualidade dos dados
+- Agent 2: Feature Engineering
+- Agent 3: ML Scoring
+- Agent 4: SAR Report
+
+## Conclusão e Próximos Passos
+
+O projeto apresenta um framework AML-FT ponta a ponta, integrando dados, regras determinísticas, Machine Learning, inteligência artificial e investigação humana de forma explicável e alinhada à realidade de fintechs de pagamentos. 
 
 As etapas são complementares e interdependentes: tipologias fundamentam regras auditáveis, alertas estruturam sinais operacionais, o Machine Learning refina a priorização combinando múltiplos fatores, e o SAR consolida a decisão em narrativa regulatória consistente.
 
-Como próximos passos, destacam-se a incorporação de feedback humano, o monitoramento de drift e recalibragem de thresholds, a expansão contínua de tipologias e features.
+Como próximos passos, destacam-se a incorporação de feedback humano, o monitoramento de drift e recalibragem de thresholds, e a evolução do uso de IA para ampliar escala, consistência e eficiência do processo de AML.
 
 ## Contato
 <div> 
